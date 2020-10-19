@@ -2,6 +2,7 @@
 
 #### Semantic analysis of reviews and Word Cloud Imageing for Element Coffee
 ![Header Image](https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/106366391_713884452737352_277651400985110000_n.jpg?_nc_cat=107&_nc_sid=8ae9d6&_nc_ohc=GUoNXHiB7Y4AX8hmlZG&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=a0bbb0ac5cc6ac5fa14447df046d7b60&oe=5FB1DEBC)
+Element Coffee Late Art, [Image Source:](https://www.elementcoffee.co.uk)
 ## Executive Summary:¶
 Element Coffee requested an analysis on the reviews for their brick and mortar coffee shop in Northfields London. Data was Extracted using Google Cloud and the Google My Business API. Nlp was used to classify the sentiment of reviews as either Negative or Positive. with most (91.4%) reviews scoring a 5 Star Rating. A Word Cloud of the reviews was created to display the most important words and concepts that occur in the reviews.
 
