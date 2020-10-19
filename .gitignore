@@ -4,6 +4,7 @@
 
 # Config and private files
 credentials.json
+review_data.csv
 token.pickle
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
