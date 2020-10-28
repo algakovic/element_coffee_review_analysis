@@ -6,6 +6,8 @@
 credentials.json
 review_data.csv
 token.pickle
+*/.txt
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
